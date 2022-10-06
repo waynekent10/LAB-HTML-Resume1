@@ -1,0 +1,21 @@
+body {
+  background-color: lightgray;
+}
+.article1 {
+  font-family: 'Courier New', Courier, monospace;
+  border-style: dashed;
+  border-width: medium;
+  color: purple;
+}
+.article2 {
+  font-family: 'Times New Roman', Times, serif;
+  border-style: dotted;
+  border-width: thin;
+  color: black;
+}
+.article3 {
+  font-family: Arial, Helvetica, sans-serif;
+  border-style: inset;
+  border-width: thick;
+  color: burlywood;
+}
